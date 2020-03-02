@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "mediumexporter": "^0.1.6",
+    "react-virtualized": "^9.21.2",
+    "styled-components": "^5.0.1"
+  }
+}
